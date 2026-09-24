@@ -1,0 +1,24 @@
+# Editor / temporary files
+*~
+*.swp
+*.swo
+*.tmp
+*.bak
+
+# Runtime / cache
+*.log
+*.pid
+.cache/
+__pycache__/
+*.pyc
+
+# Secrets / local overrides
+.env
+.env.*
+*.pem
+*.key
+
+# Local Neovim state
+.session.vim
+shada
+*.shada
