@@ -1,4 +1,26 @@
-# AstroNvim Template
+✦︎✦︎✦︎ Meta Apollo Logos //
+
+# ⚒ POST-APOLLO // NEOVIM
+
+![](BUILD/assets/design/chassis/focus-rail.svg)
+
+> **STATE //** active \~\~ **VIEW //** development editor configuration
+
+> **Post-Apollo Neovim is the live AstroNvim-based editor configuration for the Post-Apollo development environment.**
+
+### 🧭 MAP // REPOSITORY
+
+![](BUILD/assets/design/chassis/nav-rail.svg)
+
+// [🧭 ATLAS](./ATLAS/) \~\~ // [✮˙๋࣭⭑ MODEL](./MODEL/) \~\~ // [🖨 BUILD](./BUILD/) \~\~ // [⚒ DEV](./DEV/) \~\~ // [🖳 OPERATE](./OPERATE/) \~\~ // [⊹ ࣪ℼ˖ EVIDENCE](./EVIDENCE/) \~\~ // [࣪⋅˚🕮‧₊˚ ARCHIVE](./ARCHIVE/)
+
+---
+
+### ★⋆˙ CORE // RUNTIME LAYOUT
+
+Neovim's root configuration files and `lua/` tree stay where the editor expects them. The Meta Apollo rooms organize meaning without relocating the live configuration.
+
+---
 
 **NOTE:** This is for AstroNvim v6+
 
