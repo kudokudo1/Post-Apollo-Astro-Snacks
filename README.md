@@ -1,6 +1,6 @@
 ✦︎✦︎✦︎ Meta Apollo Logos //
 
-# ⚒ POST-APOLLO // NEOVIM
+# ⚒ NEOVIM // ASTRO SNACKS
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
