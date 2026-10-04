@@ -4,9 +4,13 @@
 
 ![](BUILD/assets/design/chassis/focus-rail.svg)
 
+![Neovim // Astro Snacks](./BUILD/assets/design/astro-snacks-banner.svg)
+
 > **STATE //** active \~\~ **VIEW //** development editor configuration
 
-> **Post-Apollo Neovim is the live AstroNvim-based editor configuration for the Post-Apollo development environment.**
+The development editor of the Post-Apollo Family — shaping the relationship between operator, terminal, editor, code, tools, context, and creation, turning text editing into a connected working environment for navigating, understanding, changing, and building software.
+
+**FAMILY //** [META APOLLO LOGOS](https://github.com/kudokudo1/Meta-Apollo-Logos) · [DEV EXP](https://github.com/kudokudo1/The-Post-Apollo-Dev-Exp) · [FOREST](https://github.com/kudokudo1/The-Post-Apollo-Forest-Project) · [TASKBARS](https://github.com/kudokudo1/taskbars-post-apollo)
 
 ### 🧭 MAP // REPOSITORY
 
