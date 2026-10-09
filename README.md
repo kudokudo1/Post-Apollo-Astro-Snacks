@@ -26,6 +26,12 @@ Neovim's root configuration files and `lua/` tree stay where the editor expects 
 
 ---
 
+## Upstream provenance
+
+This repository is built from the **AstroNvim user template** and contains both unchanged template files and modified descendants, alongside original Post-Apollo configuration and presentation work. Third-party plugins such as Snacks.nvim remain separate dependencies under their own licenses.
+
+See [THIRD_PARTY_NOTICE.md](./THIRD_PARTY_NOTICE.md) for the exact lineage and licensing boundary.
+
 **NOTE:** This is for AstroNvim v6+
 
 A template for getting started with [AstroNvim](https://github.com/AstroNvim/AstroNvim)
